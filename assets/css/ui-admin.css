@@ -1,0 +1,60 @@
+/*.mt-25{*/
+    /*margin-top: 25px;*/
+/*}*/
+/*.mt-20{*/
+    /*margin-top: 10px;*/
+/*}*/
+/*.pagination{*/
+    /*display: block;*/
+    /*margin-top: 15px;*/
+    /*margin-bottom: 15px;*/
+/*}*/
+/*.pagination strong,*/
+/*.pagination a{*/
+    /*margin: 5px;*/
+/*}*/
+
+
+/*div.form-sobre-documento{*/
+    /*display: none;*/
+/*}*/
+
+.widget-user-2 .widget-user-username, .widget-user-2 .widget-user-desc {
+     margin-left: 0px;
+}
+div.area-reporte{
+    display: block;
+    border: 2px dashed #CCC;
+    height: 800px;
+}
+figure.img-perfil{
+    
+}
+/*img.img-logo{*/
+    /*display: inline-block;*/
+    /*text-align: center;*/
+/*}*/
+.text-violeta{
+    color: #706DB1;
+}
+.text-lechuga{
+    color: #66D300;
+}
+.text-amarillo{
+    color: #F3D300;
+}
+.text-rojo{
+    color: #D70040;
+}
+.text-navy{
+    color: #001F3F;
+}
+.text-marron{
+    color: #D66400;
+}
+
+.btn-group>.btn-default.active, .btn-group>.btn-default:active, .btn-group>.btn-default:focus, .btn-group>.btn-default:hover {
+    color: #fff;
+    background-color: #31b0d5;
+    border-color: #269abc;
+}

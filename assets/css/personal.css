@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    /*background: url("../images/Page-BgTexture.jpg");
+    background-repeat: repeat;*/
+
+    margin: 0px auto;
+    padding: 0px;
+    background-color: #8E988B;
+    background-image: url("../images/fondo.png");
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: left top;  
+}
+.banner-principal{
+    margin: 15px auto;
+    border: 1px solid #cccccc;
+    height: 100px;   
+}
+header img{
+    width: 100%;
+}
+.carousel-inner img{
+    width: 100%;
+}
+
+
+#area-reporte, #area-grafica{
+    margin-top: 10px;
+    border: 1px dashed #ccc;
+    height: 800px;
+}
+#area-grafica{
+    position: relative;
+    height: 495px;
+    margin: 0px auto;
+    text-align: center;
+    padding-top: 37px;
+    margin-top: 30px;
+}
+div.btns-change-graph{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.navbar-default{
+    margin-top: 1em;
+}
